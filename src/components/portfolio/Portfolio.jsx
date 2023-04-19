@@ -2,8 +2,8 @@ import React from 'react'
 
 const Portfolio = () => {
   return (
-    <div>Portfolio</div>
+    <section id='portfolio'>Portfolio</section>
   )
 }
 
-export default Portfolio
+export default Portfolio;
